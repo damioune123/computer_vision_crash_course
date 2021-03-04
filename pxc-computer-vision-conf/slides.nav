@@ -1,0 +1,133 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\sectionentry {1}{Setup}{3}{Setup}{0}}
+\headcommand {\slideentry {1}{0}{1}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\slideentry {1}{0}{2}{4/4}{}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\slideentry {1}{0}{3}{5/5}{}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@sectionpages {3}{5}}
+\headcommand {\beamer@subsectionpages {3}{5}}
+\headcommand {\sectionentry {2}{What is computer vision ?}{6}{What is computer vision ?}{0}}
+\headcommand {\slideentry {2}{0}{1}{6/6}{}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\beamer@subsectionpages {6}{6}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{7}{Numeric image representation}}
+\headcommand {\slideentry {2}{1}{1}{7/7}{Numeric image representation}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\slideentry {2}{1}{2}{8/8}{Numeric image representation}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\beamer@subsectionpages {7}{8}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{9}{Different technical approaches : old machine learning vs new deep learning techniques}}
+\headcommand {\slideentry {2}{2}{1}{9/9}{Different technical approaches : old machine learning vs new deep learning techniques}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {2}{2}{2}{10/10}{Different technical approaches : old machine learning vs new deep learning techniques}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {2}{2}{3}{11/11}{Different technical approaches : old machine learning vs new deep learning techniques}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {2}{2}{4}{12/12}{Different technical approaches : old machine learning vs new deep learning techniques}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@sectionpages {6}{12}}
+\headcommand {\beamer@subsectionpages {9}{12}}
+\headcommand {\sectionentry {3}{Hands on OpenCV}{13}{Hands on OpenCV}{0}}
+\headcommand {\slideentry {3}{0}{1}{13/13}{}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\beamer@subsectionpages {13}{13}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{14}{Basic image manipulations}}
+\headcommand {\slideentry {3}{1}{1}{14/14}{Basic image manipulations}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@subsectionpages {14}{14}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{15}{Edge detection}}
+\headcommand {\slideentry {3}{2}{1}{15/15}{Edge detection}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {3}{2}{2}{16/16}{Edge detection}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\slideentry {3}{2}{3}{17/17}{Edge detection}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\slideentry {3}{2}{4}{18/18}{Edge detection}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\slideentry {3}{2}{5}{19/19}{Edge detection}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\beamer@sectionpages {13}{19}}
+\headcommand {\beamer@subsectionpages {15}{19}}
+\headcommand {\sectionentry {4}{Object detection with HAAR cascade classifiers}{20}{Object detection with HAAR cascade classifiers}{0}}
+\headcommand {\slideentry {4}{0}{1}{20/20}{}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\beamer@subsectionpages {20}{20}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{21}{What is HAAR cascade classifiers ?}}
+\headcommand {\slideentry {4}{1}{1}{21/21}{What is HAAR cascade classifiers ?}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\slideentry {4}{1}{2}{22/22}{What is HAAR cascade classifiers ?}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {4}{1}{3}{23/23}{What is HAAR cascade classifiers ?}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {4}{1}{4}{24/24}{What is HAAR cascade classifiers ?}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\slideentry {4}{1}{5}{25/25}{What is HAAR cascade classifiers ?}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {4}{1}{6}{26/26}{What is HAAR cascade classifiers ?}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\beamer@subsectionpages {21}{26}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{27}{Face and eye detection}}
+\headcommand {\slideentry {4}{2}{1}{27/27}{Face and eye detection}{0}}
+\headcommand {\beamer@framepages {27}{27}}
+\headcommand {\beamer@sectionpages {20}{27}}
+\headcommand {\beamer@subsectionpages {27}{27}}
+\headcommand {\sectionentry {5}{Object classification with Convolutional Neural Network}{28}{Object classification with Convolutional Neural Network}{0}}
+\headcommand {\slideentry {5}{0}{1}{28/28}{}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\slideentry {5}{0}{2}{29/29}{}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\slideentry {5}{0}{3}{30/30}{}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\slideentry {5}{0}{4}{31/31}{}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\slideentry {5}{0}{5}{32/32}{}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\slideentry {5}{0}{6}{33/33}{}{0}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\slideentry {5}{0}{7}{34/34}{}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\beamer@subsectionpages {28}{34}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{35}{Convolutional Neural Network}}
+\headcommand {\slideentry {5}{1}{1}{35/35}{Convolutional Neural Network}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\slideentry {5}{1}{2}{36/36}{Convolutional Neural Network}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\slideentry {5}{1}{3}{37/37}{Convolutional Neural Network}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\slideentry {5}{1}{4}{38/38}{Convolutional Neural Network}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\slideentry {5}{1}{5}{39/39}{Convolutional Neural Network}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\slideentry {5}{1}{6}{40/40}{Convolutional Neural Network}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\slideentry {5}{1}{7}{41/41}{Convolutional Neural Network}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\beamer@subsectionpages {35}{41}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{42}{Building a face mask detector with custom CNN}}
+\headcommand {\slideentry {5}{2}{1}{42/42}{Building a face mask detector with custom CNN}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\beamer@sectionpages {28}{42}}
+\headcommand {\beamer@subsectionpages {42}{42}}
+\headcommand {\sectionentry {6}{Object detection with YOLO}{43}{Object detection with YOLO}{0}}
+\headcommand {\slideentry {6}{0}{1}{43/43}{}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\slideentry {6}{0}{2}{44/44}{}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\slideentry {6}{0}{3}{45/45}{}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\slideentry {6}{0}{4}{46/46}{}{0}}
+\headcommand {\beamer@framepages {46}{46}}
+\headcommand {\slideentry {6}{0}{5}{47/47}{}{0}}
+\headcommand {\beamer@framepages {47}{47}}
+\headcommand {\beamer@partpages {1}{47}}
+\headcommand {\beamer@subsectionpages {43}{47}}
+\headcommand {\beamer@sectionpages {43}{47}}
+\headcommand {\beamer@documentpages {47}}
+\headcommand {\gdef \inserttotalframenumber {47}}
