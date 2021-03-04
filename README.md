@@ -1,6 +1,7 @@
 # Computer vision crash course
 
 ## Installation 
+Install anaconda : https://docs.anaconda.com/anaconda/install/
 
 ### Installing conda environment
 ```
